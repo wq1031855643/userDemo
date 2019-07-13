@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>注册</title>
+    <%- include('./resource.html') %>
+</head>
+
+<body>
+
+    <%- include('./nav.html') %>
+
+    <div class="container">
+        <h1>注册</h1>
+        <div class="form-group">
+            <label>用户名</label>
+            <input type="text" id="user" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>密码</label>
+            <input type="password" id="pwd" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>确认密码</label>
+            <input type="password" id="rePwd" class="form-control" />
+        </div>
+
+        <button class="btn-block btn-success" id="confirm">注册</button>
+        <button class="btn-block btn-danger">取消</button>
+    </div>
+
+    <script src="/static/js/regiester.js"></script>
+</body>
+
+</html>
