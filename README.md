@@ -1,7 +1,7 @@
 ## express + mongoDB + bootStrap + jq 快速构建一个应用
 
 #### 参观地址 
-[点这里参观项目 O(∩_∩)O](http://49.234.25.71:8000)
+[点这里参观项目 O(∩_∩)O](http://xiaoxuancome.cn:8000)
 
 #### 克隆到本地运行注意事项:
 1. 安装nodeJs和mongoDB.
