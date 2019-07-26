@@ -1,4 +1,4 @@
-## express + mongoDB + bootStrap + jq 快速构建一个应用
+## express + mongoDB + BootStrap + jq 快速构建一个应用
 
 #### 参观地址 
 [点这里参观项目 O(∩_∩)O](http://xiaoxuancome.cn:8000)
